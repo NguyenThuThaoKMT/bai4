@@ -46,11 +46,11 @@ tạo các bảng và cài khóa chính cho bảng
 
 liên kết khóa phụ
 
-![image](https://github.com/user-attachments/assets/6c79d00d-2446-4bc4-aced-0c4cb2d246ce)
+![image](https://github.com/user-attachments/assets/b5f2b7a1-8fcc-4e31-9326-cd1e13ed7ba5)
 
 ta có sơ đồ liên kết sau:
 
-![image](https://github.com/user-attachments/assets/ecdcf857-00be-428c-8410-00edd1ba9b00)
+![image](https://github.com/user-attachments/assets/e1bd5db1-49e8-4203-8550-0cd1b6684901)
 
 thêm dữ liệu cho các bảng:
 + Bảng GV:
