@@ -25,13 +25,47 @@ deadline: 15/4/2025
 
 -----------------------------------------------------------------------------------------
 tạo các bảng và cài khóa chính cho bảng
+
 ![image](https://github.com/user-attachments/assets/dda7f9fd-60db-4372-9b0b-92795d22574c)
+
 ![image](https://github.com/user-attachments/assets/18590201-1f36-42ba-9d5b-b5194ff20f19)
+
 ![image](https://github.com/user-attachments/assets/86d3aa0b-91b1-470c-b5d2-c6e94a695bf4)
+
 ![image](https://github.com/user-attachments/assets/c92e8f9a-aaf6-439f-ad88-26c6081c95a4)
+
 ![image](https://github.com/user-attachments/assets/418a4de5-0398-485e-981e-babeea670a84)
+
 liên kết khóa phụ
+
 ![image](https://github.com/user-attachments/assets/6c79d00d-2446-4bc4-aced-0c4cb2d246ce)
+
 ta có sơ đồ liên kết sau:
+
 ![image](https://github.com/user-attachments/assets/ecdcf857-00be-428c-8410-00edd1ba9b00)
+
 thêm dữ liệu cho các bảng:
++ Bảng GV:
+  
+  ![image](https://github.com/user-attachments/assets/8aba6ca9-c58d-48e5-82e5-f2d062dff7b2)
+
++ Bảng LopSV:
+
+  ![image](https://github.com/user-attachments/assets/1140b310-2ed9-4d74-98f6-f748ae59d5b5)
+
++ Bảng MonHoc:
+
+  ![image](https://github.com/user-attachments/assets/b0464fa8-84b0-44ee-895a-c1db966fdfe5)
+
++ Bảng PhongHoc:
+
+  ![image](https://github.com/user-attachments/assets/41363614-8564-48a4-bf00-c75f268e2de2)
+
++ Bảng ThoiGian:
+
+  
+![image](https://github.com/user-attachments/assets/96285ec8-61cd-4462-9064-e937aa61bde3)
+
+
+
+
