@@ -26,15 +26,23 @@ deadline: 15/4/2025
 -----------------------------------------------------------------------------------------
 tạo các bảng và cài khóa chính cho bảng
 
-![image](https://github.com/user-attachments/assets/dda7f9fd-60db-4372-9b0b-92795d22574c)
+-Bảng GV:
+![image](https://github.com/user-attachments/assets/5fdff4cb-1a70-448e-b14f-4d13131b42a3)
 
-![image](https://github.com/user-attachments/assets/18590201-1f36-42ba-9d5b-b5194ff20f19)
+-Bảng LopSV:
+![image](https://github.com/user-attachments/assets/240c762f-ff85-4f2e-83a4-e4861dafa4c7)
 
-![image](https://github.com/user-attachments/assets/86d3aa0b-91b1-470c-b5d2-c6e94a695bf4)
+-Bảng Monhoc:
+![image](https://github.com/user-attachments/assets/5fbccd3c-6ad3-48c4-817a-5b49007a9e27)
 
-![image](https://github.com/user-attachments/assets/c92e8f9a-aaf6-439f-ad88-26c6081c95a4)
+-Bảng Phonghoc:
+![image](https://github.com/user-attachments/assets/be39fd5d-4298-4bdc-8726-e6f4f93094c3)
 
-![image](https://github.com/user-attachments/assets/418a4de5-0398-485e-981e-babeea670a84)
+-Bảng Thoigian:
+![image](https://github.com/user-attachments/assets/69c3f6a9-460e-4509-aa8b-80471c5275ee)
+
+-Bảng Lichday:
+![image](https://github.com/user-attachments/assets/6b77daaa-fb00-4b7c-9e5d-b2dcffdde27d)
 
 liên kết khóa phụ
 
@@ -66,6 +74,11 @@ thêm dữ liệu cho các bảng:
   
 ![image](https://github.com/user-attachments/assets/96285ec8-61cd-4462-9064-e937aa61bde3)
 
++ Bảng LichDay:
+
+![image](https://github.com/user-attachments/assets/8c88647a-110c-4684-bfb2-a8f21e38a90c)
 
 
+tạo query truy vấn ra thông tin gồm 4 cột: họ tên gv, môn dạy, giờ vào lớp, giờ ra:
 
+![image](https://github.com/user-attachments/assets/0bc2a8d0-c5b6-4dc1-b986-0dbf6712830f)
